@@ -1,6 +1,8 @@
 README
 # Module 4 Challenge<br>
 
+![education image](./Images/education.png)
+
 * In this challenge, the information given includes the students's math and reading scores, and information about the schools they attend. I was tasked to analyze standardized test results across a city's school district. The Jupyter Notebook code attached aggregates the data with pandas in order to demonstrate trends in student performance for each school. CSV files contain information on the schools and students were included. <br>
 
 *Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data:* <br>
